@@ -3,3 +3,4 @@
 3. [How to train deep learning models on Apple Silicon GPU](www.machinelearningnuggets.com/apple-silicon-gpu)
 4. [How to create custom training loops in Keras](https://www.machinelearningnuggets.com/keras-custom-training-loops)
 5. [How to build TensorFlow models with the Keras functional API: examples, code, and notebooks](https://www.machinelearningnuggets.com/tensorflow-keras-functional-api/)
+6. [TensorFlow Recurrent Neural Networks (Complete guide with examples and code)](https://www.machinelearningnuggets.com/tensorflow-lstm)
