@@ -5,3 +5,4 @@
 5. [How to build TensorFlow models with the Keras functional API: examples, code, and notebooks](https://www.machinelearningnuggets.com/tensorflow-keras-functional-api/)
 6. [TensorFlow Recurrent Neural Networks (Complete guide with examples and code)](https://www.machinelearningnuggets.com/tensorflow-lstm)
 7. [TensorBoard tutorial (Deep dive with examples and notebook)](https://www.machinelearningnuggets.com/tensorboard-tutorial)
+8. [Transfer learning guide](https://www.machinelearningnuggets.com/transfer-learning-guide)
